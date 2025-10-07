@@ -28,7 +28,3 @@ Các dự án trong repository này chủ yếu sử dụng các công nghệ v�
 ## 🚀 Hướng dẫn sử dụng
 
 Để xem chi tiết từng dự án, bạn có thể truy cập vào các thư mục tương ứng. Hầu hết các dự án sử dụng Jupyter Notebook (`.ipynb`), bạn có thể mở chúng trực tiếp trên GitHub hoặc chạy trên môi trường local của mình.
-
-*(Bạn có thể thêm hướng dẫn cài đặt môi trường nếu cần)*
-
-```bash
